@@ -1,9 +1,9 @@
 I am yogeesh k p
-I am a Python Developer and
-SQL Developer
+I am a Python Developer 
+and SQL Developer
 - 👋 Hi, I’m @yogee555
-- 👀 I’m interested in ...SQL and Python
-- 🌱 I’m currently learning .. Python
+- 👀 I’m interested in ... Python ,SQL ,AWS
+- 🌱 I’m currently learning .. Python ,SQL
   
 
 <!---
